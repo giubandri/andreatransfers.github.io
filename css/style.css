@@ -3254,7 +3254,7 @@ textarea.form-input {
 }
 
 .post-minimal-title {
-	color: #b37800;
+	color: #0288d1;
 	letter-spacing: .01em;
 	transition: 0.22s;
 }
@@ -3332,7 +3332,7 @@ textarea.form-input {
 }
 
 .post-2 .post-2-title, .post-2:active .post-2-title, .post-2:focus .post-2-title {
-	color: #b37800;
+	color: #0288d1;
 }
 
 .post-2:hover .post-2-title {
@@ -3412,7 +3412,7 @@ textarea.form-input {
 }
 
 .post-3-title {
-	color: #b37800;
+	color: #0288d1;
 }
 
 .post-3-title a {
@@ -3526,7 +3526,7 @@ textarea.form-input {
 
 .post-4-title {
 	max-width: 200px;
-	color: #b37800;
+	color: #0288d1;
 }
 
 .post-4-icon {
@@ -4588,7 +4588,7 @@ a.thumbnail-thin {
 }
 
 .thumbnail-light-title {
-	color: #b37800;
+	color: #0288d1;
 }
 
 @media (min-width: 992px) {
@@ -4640,7 +4640,7 @@ a.thumbnail-thin {
 }
 
 .thumbnail-modern-title {
-	color: #b37800;
+	color: #0288d1;
 }
 
 * + .thumbnail-modern-title {
@@ -4745,7 +4745,7 @@ a.thumbnail-thin {
 }
 
 .breadcrumbs-custom-path a:hover {
-	color: #b37800;
+	color: #0288d1;
 }
 
 * + .breadcrumbs-custom-title {
@@ -5262,7 +5262,7 @@ a.thumbnail-thin {
 }
 
 .comment-classic-name {
-	color: #b37800;
+	color: #0288d1;
 }
 
 .comment-classic-text {
@@ -5847,7 +5847,7 @@ a.thumbnail-thin {
 }
 
 .profile-classic-title {
-	color: #b37800;
+	color: #0288d1;
 }
 
 .profile-classic-title a:hover {
@@ -8789,7 +8789,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-dropdown-item.focus .rd-dropdown-link, .rd-navbar-static .rd-dropdown-item.opened .rd-dropdown-link {
-	color: #b37800;
+	color: #0288d1;
 }
 
 .rd-navbar-static .rd-dropdown-item + .rd-dropdown-item {
@@ -8801,7 +8801,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-dropdown-link:hover {
-	color: #b37800;
+	color: #0288d1;
 }
 
 .rd-navbar-static .rd-navbar-dropdown li > a,
@@ -8821,7 +8821,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar-static .rd-navbar-dropdown li > a:hover,
 .rd-navbar-static .rd-megamenu-list li > a:hover {
-	color: #b37800;
+	color: #0288d1;
 }
 
 .rd-navbar-static .rd-navbar-dropdown li > a, .rd-navbar-static .rd-navbar-dropdown li > a::before,
@@ -9354,7 +9354,7 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-dropdown > li.active > a,
 .rd-navbar-fixed .rd-navbar-dropdown > li.opened > a {
 	color: #ffffff;
-	background: #b37800;
+	background: #0288d1;
 }
 
 .rd-navbar-fixed .rd-navbar-megamenu .rd-megamenu-title {
@@ -14204,7 +14204,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	font-size: 16px;
 	font-family: 'Material Design Icons';
 	cursor: pointer;
-	color: #b37800;
+	color: #0288d1;
 	transition: .3s all ease;
 }
 
