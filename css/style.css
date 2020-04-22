@@ -4133,7 +4133,7 @@ p.quote-classic-cite {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #000000;
+	background: none;
 	opacity: .3;
 	transition: .33s;
 }
